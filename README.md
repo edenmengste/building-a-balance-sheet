@@ -1,4 +1,3 @@
-# building-a-balance-sheet
 # EdTech Balance Sheet
 
 This document provides a visual representation of EdTech's financial health over a three-year period (2019-2021). The balance sheet includes three main sections: Assets, Liabilities, and Net Worth.
